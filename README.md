@@ -1,6 +1,6 @@
 # Architectural-Pattern-Swift
 
-![](https://github.com/zhiyao92/Architectural-Pattern-Swift/blob/main/CleanShot-2021-06-08-at-11.36.43-1.gifgif)
+![](https://github.com/zhiyao92/Architectural-Pattern-Swift/blob/main/CleanShot-2021-06-08-at-11.36.43-1.gif)
 
 
 1. Model View Controller (MVC)
