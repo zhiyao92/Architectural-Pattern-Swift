@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "5c9893956c0abde7141eb7f00654eb42"
+build_time: [1624850253, 740520000]
+inputs:
+  "/Users/kelvintan/Desktop/VIPER/VIPER/Controller/Home/HomeViewController.swift": [1623121623, 139278173]
+  "/Users/kelvintan/Desktop/VIPER/VIPER/Extension/Date_Ext.swift": [1623119309, 701527953]
+  "/Users/kelvintan/Desktop/VIPER/VIPER/AppDelegate.swift": [1622626473, 737583041]
+  "/Users/kelvintan/Desktop/VIPER/VIPER/Extension/View_Ext.swift": [1622711822, 537088990]
+  "/Users/kelvintan/Desktop/VIPER/VIPER/Controller/Detail/DetailViewController.swift": [1622714586, 445464969]
+  "/Users/kelvintan/Desktop/VIPER/VIPER/SceneDelegate.swift": [1622626473, 746554852]
+  "/Users/kelvintan/Desktop/VIPER/VIPER/View/Home/HomeTableViewCell.swift": [1623122176, 526990652]
+  "/Users/kelvintan/Desktop/VIPER/VIPER/Model/BucketList.swift": [1622713542, 277875543]

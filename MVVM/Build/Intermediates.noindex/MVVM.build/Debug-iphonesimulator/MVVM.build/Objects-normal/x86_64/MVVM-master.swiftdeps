@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "b960687bcf2ef6fe30da42ffb6fb755c"
+build_time: [1624886883, 984195000]
+inputs:
+  "/Users/kelvintan/Desktop/MVVM/MVVM/View/Home/HomeViewController.swift": [1623309431, 978697732]
+  "/Users/kelvintan/Desktop/MVVM/MVVM/Extension/Date_Ext.swift": [1623231917, 380786967]
+  "/Users/kelvintan/Desktop/MVVM/MVVM/AppDelegate.swift": [1623231917, 419951070]
+  "/Users/kelvintan/Desktop/MVVM/MVVM/ViewModel/Home/HomeViewModel.swift": [1623309421, 561918435]
+  "/Users/kelvintan/Desktop/MVVM/MVVM/ViewModel/Detail/DetailViewModel.swift": [1622797929, 790949272]
+  "/Users/kelvintan/Desktop/MVVM/MVVM/View/Home/HomeTableViewCell.swift": [1623231916, 580873945]
+  "/Users/kelvintan/Desktop/MVVM/MVVM/Extension/View_Ext.swift": [1623231917, 368242462]
+  "/Users/kelvintan/Desktop/MVVM/MVVM/View/Detail/DetailViewController.swift": [1623231875, 6898076]
+  "/Users/kelvintan/Desktop/MVVM/MVVM/SceneDelegate.swift": [1623231917, 401634877]
+  "/Users/kelvintan/Desktop/MVVM/MVVM/Model/BucketList.swift": [1623231917, 355270984]
+  "/Users/kelvintan/Desktop/MVVM/MVVM/ViewModel/Box.swift": [1622798369, 562336392]

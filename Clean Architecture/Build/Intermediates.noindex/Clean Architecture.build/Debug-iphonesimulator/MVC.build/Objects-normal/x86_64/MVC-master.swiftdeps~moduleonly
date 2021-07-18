@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "053261f8a949d39d81e5c4c5e381ef9b"
+build_time: [1626246453, 415064000]
+inputs:
+  "/Users/kelvintan/Desktop/Clean Architecture/Clean Architecture/Controller/Home/HomeViewController.swift": [1623121623, 139278173]
+  "/Users/kelvintan/Desktop/Clean Architecture/Clean Architecture/Extension/Date_Ext.swift": [1623119309, 701527953]
+  "/Users/kelvintan/Desktop/Clean Architecture/Clean Architecture/AppDelegate.swift": [1622626473, 737583041]
+  "/Users/kelvintan/Desktop/Clean Architecture/Clean Architecture/Extension/View_Ext.swift": [1622711822, 537088990]
+  "/Users/kelvintan/Desktop/Clean Architecture/Clean Architecture/Controller/Detail/DetailViewController.swift": [1622714586, 445464969]
+  "/Users/kelvintan/Desktop/Clean Architecture/Clean Architecture/SceneDelegate.swift": [1622626473, 746554852]
+  "/Users/kelvintan/Desktop/Clean Architecture/Clean Architecture/View/Home/HomeTableViewCell.swift": [1623122176, 526990652]
+  "/Users/kelvintan/Desktop/Clean Architecture/Clean Architecture/Model/BucketList.swift": [1622713542, 277875543]

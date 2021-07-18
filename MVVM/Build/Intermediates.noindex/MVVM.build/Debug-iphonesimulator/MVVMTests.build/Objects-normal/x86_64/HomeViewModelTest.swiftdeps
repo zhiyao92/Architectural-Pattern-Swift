@@ -1,0 +1,348 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HomeViewModelTest"
+provides-nominal:
+- "9MVVMTests17HomeViewModelTestC"
+provides-member:
+- ["9MVVMTests17HomeViewModelTestC", ""]
+provides-dynamic-lookup:
+- "setupViewModel"
+- "testAppendTwoBucketList"
+- "testAppendZeroBucketList"
+- "viewModel"
+depends-top-level:
+- !private "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- "BucketList"
+- !private "Date"
+- !private "FloatLiteralType"
+- "HomeViewModel"
+- "HomeViewModelTest"
+- !private "IntegerLiteralType"
+- !private "StringLiteralType"
+- !private "XCTAssertTrue"
+- "XCTestCase"
+- !private "setupViewModel"
+- !private "viewModel"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "first"]
+- !private ["SK", ""]
+- !private ["SK", "count"]
+- !private ["SK", "first"]
+- !private ["4MVVM3BoxC", "value"]
+- !private ["4MVVM10BucketListV", "init"]
+- !private ["4MVVM10BucketListV", "name"]
+- !private ["s7CVarArgP", "BucketList"]
+- !private ["s7CVarArgP", "Date"]
+- !private ["s7CVarArgP", "HomeViewModel"]
+- !private ["s7CVarArgP", "XCTAssertTrue"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "bucketLists"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "setupViewModel"]
+- !private ["s7CVarArgP", "testAppendTwoBucketList"]
+- !private ["s7CVarArgP", "testAppendZeroBucketList"]
+- !private ["s7CVarArgP", "viewModel"]
+- !private ["Sl", ""]
+- !private ["Sl", "count"]
+- !private ["Sl", "first"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "BucketList"]
+- !private ["s28CustomDebugStringConvertibleP", "Date"]
+- !private ["s28CustomDebugStringConvertibleP", "HomeViewModel"]
+- !private ["s28CustomDebugStringConvertibleP", "XCTAssertTrue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "bucketLists"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "setupViewModel"]
+- !private ["s28CustomDebugStringConvertibleP", "testAppendTwoBucketList"]
+- !private ["s28CustomDebugStringConvertibleP", "testAppendZeroBucketList"]
+- !private ["s28CustomDebugStringConvertibleP", "viewModel"]
+- !private ["s17CustomReflectableP", "bucketLists"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "BucketList"]
+- !private ["s23CustomStringConvertibleP", "Date"]
+- !private ["s23CustomStringConvertibleP", "HomeViewModel"]
+- !private ["s23CustomStringConvertibleP", "XCTAssertTrue"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "bucketLists"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "setupViewModel"]
+- !private ["s23CustomStringConvertibleP", "testAppendTwoBucketList"]
+- !private ["s23CustomStringConvertibleP", "testAppendZeroBucketList"]
+- !private ["s23CustomStringConvertibleP", "viewModel"]
+- !private ["10Foundation12DataProtocolP", ""]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["Se", "bucketLists"]
+- !private ["Se", "count"]
+- !private ["Se", "first"]
+- !private ["Se", "init"]
+- !private ["SE", "bucketLists"]
+- !private ["SE", "count"]
+- !private ["SE", "first"]
+- !private ["SE", "init"]
+- !private ["SQ", "BucketList"]
+- !private ["SQ", "Date"]
+- !private ["SQ", "HomeViewModel"]
+- !private ["SQ", "XCTAssertTrue"]
+- ["SQ", ""]
+- !private ["SQ", "bucketLists"]
+- !private ["SQ", "count"]
+- !private ["SQ", "first"]
+- !private ["SQ", "init"]
+- !private ["SQ", "name"]
+- !private ["SQ", "setupViewModel"]
+- !private ["SQ", "testAppendTwoBucketList"]
+- !private ["SQ", "testAppendZeroBucketList"]
+- !private ["SQ", "viewModel"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "bucketLists"]
+- !private ["SH", "BucketList"]
+- !private ["SH", "Date"]
+- !private ["SH", "HomeViewModel"]
+- !private ["SH", "XCTAssertTrue"]
+- ["SH", ""]
+- !private ["SH", "bucketLists"]
+- !private ["SH", "count"]
+- !private ["SH", "first"]
+- !private ["SH", "init"]
+- !private ["SH", "setupViewModel"]
+- !private ["SH", "testAppendTwoBucketList"]
+- !private ["SH", "testAppendZeroBucketList"]
+- !private ["SH", "viewModel"]
+- !private ["4MVVM13HomeViewModelC", "bucketLists"]
+- !private ["4MVVM13HomeViewModelC", "init"]
+- ["9MVVMTests17HomeViewModelTestC", "BucketList"]
+- !private ["9MVVMTests17HomeViewModelTestC", "Date"]
+- ["9MVVMTests17HomeViewModelTestC", "HomeViewModel"]
+- !private ["9MVVMTests17HomeViewModelTestC", "XCTAssertTrue"]
+- ["9MVVMTests17HomeViewModelTestC", ""]
+- ["9MVVMTests17HomeViewModelTestC", "deinit"]
+- ["9MVVMTests17HomeViewModelTestC", "init"]
+- ["9MVVMTests17HomeViewModelTestC", "setupViewModel"]
+- ["9MVVMTests17HomeViewModelTestC", "testAppendTwoBucketList"]
+- ["9MVVMTests17HomeViewModelTestC", "testAppendZeroBucketList"]
+- ["9MVVMTests17HomeViewModelTestC", "viewModel"]
+- !private ["SM", ""]
+- !private ["SM", "count"]
+- !private ["SM", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["So8NSCodingP", ""]
+- ["So8NSObjectC", "BucketList"]
+- !private ["So8NSObjectC", "Date"]
+- ["So8NSObjectC", "HomeViewModel"]
+- !private ["So8NSObjectC", "XCTAssertTrue"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "bucketLists"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "setupViewModel"]
+- ["So8NSObjectC", "testAppendTwoBucketList"]
+- ["So8NSObjectC", "testAppendZeroBucketList"]
+- ["So8NSObjectC", "testCaseWithInvocation"]
+- ["So8NSObjectC", "testCaseWithSelector"]
+- ["So8NSObjectC", "viewModel"]
+- ["So8NSObjectP", "BucketList"]
+- !private ["So8NSObjectP", "Date"]
+- ["So8NSObjectP", "HomeViewModel"]
+- !private ["So8NSObjectP", "XCTAssertTrue"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "bucketLists"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "setupViewModel"]
+- ["So8NSObjectP", "testAppendTwoBucketList"]
+- ["So8NSObjectP", "testAppendZeroBucketList"]
+- ["So8NSObjectP", "testCaseWithInvocation"]
+- ["So8NSObjectP", "testCaseWithSelector"]
+- ["So8NSObjectP", "viewModel"]
+- !private ["Sq", "bucketLists"]
+- !private ["Sk", ""]
+- !private ["Sk", "count"]
+- !private ["Sk", "first"]
+- !private ["Sm", ""]
+- !private ["Sm", "count"]
+- !private ["Sm", "first"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["ST", ""]
+- !private ["ST", "count"]
+- !private ["ST", "first"]
+- !private ["So18UIFocusEnvironmentP", ""]
+- ["So11XCTActivityP", "BucketList"]
+- !private ["So11XCTActivityP", "Date"]
+- ["So11XCTActivityP", "HomeViewModel"]
+- !private ["So11XCTActivityP", "XCTAssertTrue"]
+- ["So11XCTActivityP", ""]
+- ["So11XCTActivityP", "init"]
+- ["So11XCTActivityP", "setupViewModel"]
+- ["So11XCTActivityP", "testAppendTwoBucketList"]
+- ["So11XCTActivityP", "testAppendZeroBucketList"]
+- ["So11XCTActivityP", "viewModel"]
+- ["So17XCTWaiterDelegateP", "BucketList"]
+- !private ["So17XCTWaiterDelegateP", "Date"]
+- ["So17XCTWaiterDelegateP", "HomeViewModel"]
+- !private ["So17XCTWaiterDelegateP", "XCTAssertTrue"]
+- ["So17XCTWaiterDelegateP", ""]
+- ["So17XCTWaiterDelegateP", "init"]
+- ["So17XCTWaiterDelegateP", "setupViewModel"]
+- ["So17XCTWaiterDelegateP", "testAppendTwoBucketList"]
+- ["So17XCTWaiterDelegateP", "testAppendZeroBucketList"]
+- ["So17XCTWaiterDelegateP", "viewModel"]
+- ["So6XCTestC", "BucketList"]
+- !private ["So6XCTestC", "Date"]
+- ["So6XCTestC", "HomeViewModel"]
+- !private ["So6XCTestC", "XCTAssertTrue"]
+- ["So6XCTestC", ""]
+- ["So6XCTestC", "init"]
+- ["So6XCTestC", "setupViewModel"]
+- ["So6XCTestC", "testAppendTwoBucketList"]
+- ["So6XCTestC", "testAppendZeroBucketList"]
+- ["So6XCTestC", "testCaseWithInvocation"]
+- ["So6XCTestC", "testCaseWithSelector"]
+- ["So6XCTestC", "viewModel"]
+- ["So10XCTestCaseC", "BucketList"]
+- !private ["So10XCTestCaseC", "Date"]
+- ["So10XCTestCaseC", "HomeViewModel"]
+- !private ["So10XCTestCaseC", "XCTAssertTrue"]
+- ["So10XCTestCaseC", ""]
+- ["So10XCTestCaseC", "init"]
+- ["So10XCTestCaseC", "setupViewModel"]
+- ["So10XCTestCaseC", "testAppendTwoBucketList"]
+- ["So10XCTestCaseC", "testAppendZeroBucketList"]
+- ["So10XCTestCaseC", "viewModel"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "BucketList"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Date"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HomeViewModel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCTAssertTrue"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bucketLists"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setupViewModel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "testAppendTwoBucketList"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "testAppendZeroBucketList"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewModel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "BucketList"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Date"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "HomeViewModel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "XCTAssertTrue"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bucketLists"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setupViewModel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "testAppendTwoBucketList"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "testAppendZeroBucketList"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewModel"]
+- !private ["s21_ObjectiveCBridgeableP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "bucketLists"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "4MVVM3BoxC"
+- !private "4MVVM10BucketListV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "4MVVM13HomeViewModelC"
+- "9MVVMTests17HomeViewModelTestC"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "So18UIFocusEnvironmentP"
+- "So11XCTActivityP"
+- "So17XCTWaiterDelegateP"
+- "So6XCTestC"
+- "So10XCTestCaseC"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kelvintan/Desktop/MVVM/Build/Products/Debug-iphonesimulator/MVVM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/XCTest.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9a7678e9f4e4ad86f3e851d02e4cc01e"

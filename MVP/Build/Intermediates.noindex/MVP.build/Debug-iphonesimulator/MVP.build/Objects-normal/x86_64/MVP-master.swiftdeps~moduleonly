@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "628670e480d07658831a0641225983b1"
+build_time: [1624265739, 608556000]
+inputs:
+  "/Users/kelvintan/Desktop/MVP/MVP/Controller/Home/HomeViewController.swift": [1624247359, 289979791]
+  "/Users/kelvintan/Desktop/MVP/MVP/Extension/Date_Ext.swift": [1623119309, 701527953]
+  "/Users/kelvintan/Desktop/MVP/MVP/AppDelegate.swift": [1622626473, 737583041]
+  "/Users/kelvintan/Desktop/MVP/MVP/Extension/View_Ext.swift": [1622711822, 537088990]
+  "/Users/kelvintan/Desktop/MVP/MVP/Controller/Detail/DetailViewController.swift": [1622714586, 445464969]
+  "/Users/kelvintan/Desktop/MVP/MVP/SceneDelegate.swift": [1622626473, 746554852]
+  "/Users/kelvintan/Desktop/MVP/MVP/Presenter/HomePresenter.swift": [1624247359, 310744121]
+  "/Users/kelvintan/Desktop/MVP/MVP/View/Home/HomeTableViewCell.swift": [1623122176, 526990652]
+  "/Users/kelvintan/Desktop/MVP/MVP/Model/BucketList.swift": [1622713542, 277875543]

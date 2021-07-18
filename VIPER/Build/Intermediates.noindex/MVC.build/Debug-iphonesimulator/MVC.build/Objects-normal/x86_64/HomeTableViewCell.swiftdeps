@@ -1,0 +1,647 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HomeTableViewCell"
+provides-nominal:
+- "3MVC17HomeTableViewCellC"
+provides-member:
+- ["3MVC17HomeTableViewCellC", ""]
+provides-dynamic-lookup:
+- "configureBucketList"
+- "dateLabel"
+- "handleBucketListAttribute"
+- "titleLabel"
+depends-top-level:
+- "AssignmentPrecedence"
+- "BucketList"
+- !private "Dictionary"
+- !private "FloatLiteralType"
+- "HomeTableViewCell"
+- !private "IntegerLiteralType"
+- "NSAttributedString"
+- !private "NSUnderlineStyle"
+- !private "StringLiteralType"
+- !private "UIColor"
+- "UILabel"
+- "UITableViewCell"
+- !private "dateLabel"
+- !private "handleBucketListAttribute"
+- !private "titleLabel"
+depends-member:
+- ["SK", ""]
+- !private ["3MVC10BucketListV", "completed"]
+- !private ["3MVC10BucketListV", "date"]
+- !private ["3MVC10BucketListV", "givenUp"]
+- !private ["3MVC10BucketListV", "name"]
+- ["So15CALayerDelegateP", "BucketList"]
+- ["So15CALayerDelegateP", "NSAttributedString"]
+- !private ["So15CALayerDelegateP", "NSUnderlineStyle"]
+- !private ["So15CALayerDelegateP", "UIColor"]
+- ["So15CALayerDelegateP", "UILabel"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "attributedText"]
+- ["So15CALayerDelegateP", "configureBucketList"]
+- ["So15CALayerDelegateP", "dateLabel"]
+- ["So15CALayerDelegateP", "handleBucketListAttribute"]
+- ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "text"]
+- ["So15CALayerDelegateP", "titleLabel"]
+- !private ["s7CVarArgP", "Key"]
+- !private ["s7CVarArgP", "NSAttributedString"]
+- !private ["s7CVarArgP", "NSUnderlineStyle"]
+- !private ["s7CVarArgP", "UIColor"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "attributedText"]
+- !private ["s7CVarArgP", "configureBucketList"]
+- !private ["s7CVarArgP", "dateLabel"]
+- !private ["s7CVarArgP", "handleBucketListAttribute"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "red"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "titleLabel"]
+- ["Sl", ""]
+- ["SL", ""]
+- !private ["SL", "formattedString"]
+- !private ["s28CustomDebugStringConvertibleP", "Key"]
+- !private ["s28CustomDebugStringConvertibleP", "NSAttributedString"]
+- !private ["s28CustomDebugStringConvertibleP", "NSUnderlineStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "attributedText"]
+- !private ["s28CustomDebugStringConvertibleP", "configureBucketList"]
+- !private ["s28CustomDebugStringConvertibleP", "dateLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "formattedString"]
+- !private ["s28CustomDebugStringConvertibleP", "handleBucketListAttribute"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "red"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "titleLabel"]
+- !private ["s17CustomReflectableP", "attributedText"]
+- !private ["s17CustomReflectableP", "formattedString"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "Key"]
+- !private ["s23CustomStringConvertibleP", "NSAttributedString"]
+- !private ["s23CustomStringConvertibleP", "NSUnderlineStyle"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "attributedText"]
+- !private ["s23CustomStringConvertibleP", "configureBucketList"]
+- !private ["s23CustomStringConvertibleP", "dateLabel"]
+- !private ["s23CustomStringConvertibleP", "formattedString"]
+- !private ["s23CustomStringConvertibleP", "handleBucketListAttribute"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "red"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "titleLabel"]
+- !private ["10Foundation4DateV", "formattedString"]
+- !private ["Se", "attributedText"]
+- !private ["Se", "formattedString"]
+- !private ["Se", "text"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SE", "attributedText"]
+- !private ["SE", "formattedString"]
+- !private ["SE", "text"]
+- !private ["SQ", "Key"]
+- !private ["SQ", "NSAttributedString"]
+- !private ["SQ", "NSUnderlineStyle"]
+- !private ["SQ", "RawValue"]
+- !private ["SQ", "UIColor"]
+- ["SQ", ""]
+- !private ["SQ", "attributedText"]
+- !private ["SQ", "completed"]
+- !private ["SQ", "configureBucketList"]
+- !private ["SQ", "date"]
+- !private ["SQ", "dateLabel"]
+- !private ["SQ", "formattedString"]
+- !private ["SQ", "givenUp"]
+- !private ["SQ", "handleBucketListAttribute"]
+- !private ["SQ", "init"]
+- !private ["SQ", "name"]
+- !private ["SQ", "rawValue"]
+- !private ["SQ", "red"]
+- !private ["SQ", "single"]
+- !private ["SQ", "strikethroughColor"]
+- !private ["SQ", "strikethroughStyle"]
+- !private ["SQ", "text"]
+- !private ["SQ", "titleLabel"]
+- !private ["s25ExpressibleByArrayLiteralP", "RawValue"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "rawValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "single"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "Key"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "Value"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s23ExpressibleByNilLiteralP", "attributedText"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s32ExpressibleByStringInterpolationP", "StringInterpolation"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["SH", "Key"]
+- !private ["SH", "NSAttributedString"]
+- !private ["SH", "NSUnderlineStyle"]
+- !private ["SH", "UIColor"]
+- ["SH", ""]
+- !private ["SH", "attributedText"]
+- !private ["SH", "configureBucketList"]
+- !private ["SH", "dateLabel"]
+- !private ["SH", "formattedString"]
+- !private ["SH", "handleBucketListAttribute"]
+- !private ["SH", "init"]
+- !private ["SH", "red"]
+- !private ["SH", "strikethroughColor"]
+- !private ["SH", "strikethroughStyle"]
+- !private ["SH", "text"]
+- !private ["SH", "titleLabel"]
+- ["3MVC17HomeTableViewCellC", "BucketList"]
+- ["3MVC17HomeTableViewCellC", "NSAttributedString"]
+- !private ["3MVC17HomeTableViewCellC", "NSUnderlineStyle"]
+- !private ["3MVC17HomeTableViewCellC", "UIColor"]
+- ["3MVC17HomeTableViewCellC", "UILabel"]
+- ["3MVC17HomeTableViewCellC", ""]
+- ["3MVC17HomeTableViewCellC", "configureBucketList"]
+- !private ["3MVC17HomeTableViewCellC", "dateLabel"]
+- ["3MVC17HomeTableViewCellC", "deinit"]
+- !private ["3MVC17HomeTableViewCellC", "handleBucketListAttribute"]
+- ["3MVC17HomeTableViewCellC", "init"]
+- !private ["3MVC17HomeTableViewCellC", "titleLabel"]
+- !private ["So21NSAttributedStringKeya", "strikethroughColor"]
+- !private ["So21NSAttributedStringKeya", "strikethroughStyle"]
+- ["s25LosslessStringConvertibleP", ""]
+- !private ["So18NSAttributedStringC", "Key"]
+- !private ["So18NSAttributedStringC", "init"]
+- ["So8NSCodingP", "BucketList"]
+- !private ["So8NSCodingP", "Key"]
+- ["So8NSCodingP", "NSAttributedString"]
+- !private ["So8NSCodingP", "NSUnderlineStyle"]
+- !private ["So8NSCodingP", "UIColor"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "attributedText"]
+- ["So8NSCodingP", "configureBucketList"]
+- ["So8NSCodingP", "dateLabel"]
+- ["So8NSCodingP", "handleBucketListAttribute"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "red"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSCodingP", "titleLabel"]
+- !private ["So9NSCopyingP", "Key"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "red"]
+- !private ["So21NSItemProviderReadingP", "Key"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "red"]
+- !private ["So21NSItemProviderWritingP", "Key"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "red"]
+- !private ["So16NSMutableCopyingP", "Key"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "BucketList"]
+- !private ["So8NSObjectC", "Key"]
+- ["So8NSObjectC", "NSAttributedString"]
+- !private ["So8NSObjectC", "NSUnderlineStyle"]
+- !private ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "attributedStringWithAttachment"]
+- !private ["So8NSObjectC", "attributedText"]
+- ["So8NSObjectC", "configureBucketList"]
+- ["So8NSObjectC", "dateLabel"]
+- ["So8NSObjectC", "handleBucketListAttribute"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "red"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "titleLabel"]
+- ["So8NSObjectP", "BucketList"]
+- !private ["So8NSObjectP", "Key"]
+- ["So8NSObjectP", "NSAttributedString"]
+- !private ["So8NSObjectP", "NSUnderlineStyle"]
+- !private ["So8NSObjectP", "UIColor"]
+- ["So8NSObjectP", "UILabel"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "attributedStringWithAttachment"]
+- !private ["So8NSObjectP", "attributedText"]
+- ["So8NSObjectP", "configureBucketList"]
+- ["So8NSObjectP", "dateLabel"]
+- ["So8NSObjectP", "handleBucketListAttribute"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "red"]
+- !private ["So8NSObjectP", "text"]
+- ["So8NSObjectP", "titleLabel"]
+- !private ["So14NSSecureCodingP", "Key"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "red"]
+- !private ["So16NSUnderlineStyleV", "RawValue"]
+- !private ["So16NSUnderlineStyleV", "rawValue"]
+- !private ["So16NSUnderlineStyleV", "single"]
+- !private ["s9OptionSetP", "RawValue"]
+- !private ["s9OptionSetP", "rawValue"]
+- !private ["s9OptionSetP", "single"]
+- !private ["Sq", "attributedText"]
+- !private ["Sq", "text"]
+- !private ["SY", "RawValue"]
+- !private ["SY", ""]
+- !private ["SY", "rawValue"]
+- !private ["SY", "single"]
+- !private ["SY", "strikethroughColor"]
+- !private ["SY", "strikethroughStyle"]
+- !private ["10Foundation20ReferenceConvertibleP", "formattedString"]
+- ["ST", ""]
+- !private ["s10SetAlgebraP", "RawValue"]
+- !private ["s10SetAlgebraP", ""]
+- !private ["s10SetAlgebraP", "rawValue"]
+- !private ["s10SetAlgebraP", "single"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s27StringInterpolationProtocolP", "init"]
+- ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- ["s20TextOutputStreamableP", ""]
+- ["So29UIAccessibilityIdentificationP", "BucketList"]
+- ["So29UIAccessibilityIdentificationP", "NSAttributedString"]
+- !private ["So29UIAccessibilityIdentificationP", "NSUnderlineStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "UIColor"]
+- ["So29UIAccessibilityIdentificationP", "UILabel"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "attributedText"]
+- ["So29UIAccessibilityIdentificationP", "configureBucketList"]
+- ["So29UIAccessibilityIdentificationP", "dateLabel"]
+- ["So29UIAccessibilityIdentificationP", "handleBucketListAttribute"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- ["So29UIAccessibilityIdentificationP", "titleLabel"]
+- ["So12UIAppearanceP", "BucketList"]
+- ["So12UIAppearanceP", "NSAttributedString"]
+- !private ["So12UIAppearanceP", "NSUnderlineStyle"]
+- !private ["So12UIAppearanceP", "UIColor"]
+- ["So12UIAppearanceP", "UILabel"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "attributedText"]
+- ["So12UIAppearanceP", "configureBucketList"]
+- ["So12UIAppearanceP", "dateLabel"]
+- ["So12UIAppearanceP", "handleBucketListAttribute"]
+- ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So12UIAppearanceP", "titleLabel"]
+- ["So21UIAppearanceContainerP", "BucketList"]
+- ["So21UIAppearanceContainerP", "NSAttributedString"]
+- !private ["So21UIAppearanceContainerP", "NSUnderlineStyle"]
+- !private ["So21UIAppearanceContainerP", "UIColor"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "attributedText"]
+- ["So21UIAppearanceContainerP", "configureBucketList"]
+- ["So21UIAppearanceContainerP", "dateLabel"]
+- ["So21UIAppearanceContainerP", "handleBucketListAttribute"]
+- ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So21UIAppearanceContainerP", "titleLabel"]
+- !private ["So7UIColorC", "red"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "attributedText"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- ["So17UICoordinateSpaceP", "BucketList"]
+- ["So17UICoordinateSpaceP", "NSAttributedString"]
+- !private ["So17UICoordinateSpaceP", "NSUnderlineStyle"]
+- !private ["So17UICoordinateSpaceP", "UIColor"]
+- ["So17UICoordinateSpaceP", "UILabel"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "attributedText"]
+- ["So17UICoordinateSpaceP", "configureBucketList"]
+- ["So17UICoordinateSpaceP", "dateLabel"]
+- ["So17UICoordinateSpaceP", "handleBucketListAttribute"]
+- ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- ["So17UICoordinateSpaceP", "titleLabel"]
+- ["So13UIDynamicItemP", "BucketList"]
+- ["So13UIDynamicItemP", "NSAttributedString"]
+- !private ["So13UIDynamicItemP", "NSUnderlineStyle"]
+- !private ["So13UIDynamicItemP", "UIColor"]
+- ["So13UIDynamicItemP", "UILabel"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "attributedText"]
+- ["So13UIDynamicItemP", "configureBucketList"]
+- ["So13UIDynamicItemP", "dateLabel"]
+- ["So13UIDynamicItemP", "handleBucketListAttribute"]
+- ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So13UIDynamicItemP", "titleLabel"]
+- ["So18UIFocusEnvironmentP", "BucketList"]
+- ["So18UIFocusEnvironmentP", "NSAttributedString"]
+- !private ["So18UIFocusEnvironmentP", "NSUnderlineStyle"]
+- !private ["So18UIFocusEnvironmentP", "UIColor"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "attributedText"]
+- ["So18UIFocusEnvironmentP", "configureBucketList"]
+- ["So18UIFocusEnvironmentP", "dateLabel"]
+- ["So18UIFocusEnvironmentP", "handleBucketListAttribute"]
+- ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So18UIFocusEnvironmentP", "titleLabel"]
+- ["So11UIFocusItemP", "BucketList"]
+- ["So11UIFocusItemP", "NSAttributedString"]
+- !private ["So11UIFocusItemP", "NSUnderlineStyle"]
+- !private ["So11UIFocusItemP", "UIColor"]
+- ["So11UIFocusItemP", "UILabel"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "attributedText"]
+- ["So11UIFocusItemP", "configureBucketList"]
+- ["So11UIFocusItemP", "dateLabel"]
+- ["So11UIFocusItemP", "handleBucketListAttribute"]
+- ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "text"]
+- ["So11UIFocusItemP", "titleLabel"]
+- ["So20UIFocusItemContainerP", "BucketList"]
+- ["So20UIFocusItemContainerP", "NSAttributedString"]
+- !private ["So20UIFocusItemContainerP", "NSUnderlineStyle"]
+- !private ["So20UIFocusItemContainerP", "UIColor"]
+- ["So20UIFocusItemContainerP", "UILabel"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "attributedText"]
+- ["So20UIFocusItemContainerP", "configureBucketList"]
+- ["So20UIFocusItemContainerP", "dateLabel"]
+- ["So20UIFocusItemContainerP", "handleBucketListAttribute"]
+- ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- ["So20UIFocusItemContainerP", "titleLabel"]
+- ["So27UIGestureRecognizerDelegateP", "BucketList"]
+- ["So27UIGestureRecognizerDelegateP", "NSAttributedString"]
+- !private ["So27UIGestureRecognizerDelegateP", "NSUnderlineStyle"]
+- !private ["So27UIGestureRecognizerDelegateP", "UIColor"]
+- ["So27UIGestureRecognizerDelegateP", "UILabel"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- ["So27UIGestureRecognizerDelegateP", "configureBucketList"]
+- ["So27UIGestureRecognizerDelegateP", "dateLabel"]
+- ["So27UIGestureRecognizerDelegateP", "handleBucketListAttribute"]
+- ["So27UIGestureRecognizerDelegateP", "init"]
+- ["So27UIGestureRecognizerDelegateP", "titleLabel"]
+- !private ["So7UILabelC", "attributedText"]
+- !private ["So7UILabelC", "text"]
+- ["So24UILargeContentViewerItemP", "BucketList"]
+- ["So24UILargeContentViewerItemP", "NSAttributedString"]
+- !private ["So24UILargeContentViewerItemP", "NSUnderlineStyle"]
+- !private ["So24UILargeContentViewerItemP", "UIColor"]
+- ["So24UILargeContentViewerItemP", "UILabel"]
+- ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "attributedText"]
+- ["So24UILargeContentViewerItemP", "configureBucketList"]
+- ["So24UILargeContentViewerItemP", "dateLabel"]
+- ["So24UILargeContentViewerItemP", "handleBucketListAttribute"]
+- ["So24UILargeContentViewerItemP", "init"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So24UILargeContentViewerItemP", "titleLabel"]
+- ["So30UIPasteConfigurationSupportingP", "BucketList"]
+- ["So30UIPasteConfigurationSupportingP", "NSAttributedString"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSUnderlineStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "attributedText"]
+- ["So30UIPasteConfigurationSupportingP", "configureBucketList"]
+- ["So30UIPasteConfigurationSupportingP", "dateLabel"]
+- ["So30UIPasteConfigurationSupportingP", "handleBucketListAttribute"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "titleLabel"]
+- ["So11UIResponderC", "BucketList"]
+- ["So11UIResponderC", "NSAttributedString"]
+- !private ["So11UIResponderC", "NSUnderlineStyle"]
+- !private ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", ""]
+- !private ["So11UIResponderC", "attributedText"]
+- ["So11UIResponderC", "configureBucketList"]
+- ["So11UIResponderC", "dateLabel"]
+- ["So11UIResponderC", "handleBucketListAttribute"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "titleLabel"]
+- ["So30UIResponderStandardEditActionsP", "BucketList"]
+- ["So30UIResponderStandardEditActionsP", "NSAttributedString"]
+- !private ["So30UIResponderStandardEditActionsP", "NSUnderlineStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "UIColor"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "attributedText"]
+- ["So30UIResponderStandardEditActionsP", "configureBucketList"]
+- ["So30UIResponderStandardEditActionsP", "dateLabel"]
+- ["So30UIResponderStandardEditActionsP", "handleBucketListAttribute"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So30UIResponderStandardEditActionsP", "titleLabel"]
+- ["So15UITableViewCellC", "BucketList"]
+- ["So15UITableViewCellC", "NSAttributedString"]
+- !private ["So15UITableViewCellC", "NSUnderlineStyle"]
+- !private ["So15UITableViewCellC", "UIColor"]
+- ["So15UITableViewCellC", "UILabel"]
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "configureBucketList"]
+- ["So15UITableViewCellC", "dateLabel"]
+- ["So15UITableViewCellC", "handleBucketListAttribute"]
+- ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "titleLabel"]
+- ["So18UITraitEnvironmentP", "BucketList"]
+- ["So18UITraitEnvironmentP", "NSAttributedString"]
+- !private ["So18UITraitEnvironmentP", "NSUnderlineStyle"]
+- !private ["So18UITraitEnvironmentP", "UIColor"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "attributedText"]
+- ["So18UITraitEnvironmentP", "configureBucketList"]
+- ["So18UITraitEnvironmentP", "dateLabel"]
+- ["So18UITraitEnvironmentP", "handleBucketListAttribute"]
+- ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So18UITraitEnvironmentP", "titleLabel"]
+- ["So23UIUserActivityRestoringP", "BucketList"]
+- ["So23UIUserActivityRestoringP", "NSAttributedString"]
+- !private ["So23UIUserActivityRestoringP", "NSUnderlineStyle"]
+- !private ["So23UIUserActivityRestoringP", "UIColor"]
+- ["So23UIUserActivityRestoringP", "UILabel"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "attributedText"]
+- ["So23UIUserActivityRestoringP", "configureBucketList"]
+- ["So23UIUserActivityRestoringP", "dateLabel"]
+- ["So23UIUserActivityRestoringP", "handleBucketListAttribute"]
+- ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So23UIUserActivityRestoringP", "titleLabel"]
+- ["So6UIViewC", "BucketList"]
+- ["So6UIViewC", "NSAttributedString"]
+- !private ["So6UIViewC", "NSUnderlineStyle"]
+- !private ["So6UIViewC", "UIColor"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "attributedText"]
+- ["So6UIViewC", "configureBucketList"]
+- ["So6UIViewC", "dateLabel"]
+- ["So6UIViewC", "handleBucketListAttribute"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "text"]
+- ["So6UIViewC", "titleLabel"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "formattedString"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s26_ExpressibleByColorLiteralP", "red"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", ""]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "strikethroughColor"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "strikethroughStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Key"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSAttributedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSUnderlineStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "attributedText"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configureBucketList"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dateLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "handleBucketListAttribute"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "red"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Key"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSAttributedString"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSUnderlineStyle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIColor"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "attributedText"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "configureBucketList"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dateLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "handleBucketListAttribute"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "red"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "titleLabel"]
+- !private ["s21_ObjectiveCBridgeableP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "attributedText"]
+- !private ["s21_ObjectiveCBridgeableP", "formattedString"]
+- !private ["s21_ObjectiveCBridgeableP", "strikethroughColor"]
+- !private ["s21_ObjectiveCBridgeableP", "strikethroughStyle"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s20_SwiftNewtypeWrapperP", "strikethroughColor"]
+- !private ["s20_SwiftNewtypeWrapperP", "strikethroughStyle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "NSAttributedString"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "NSUnderlineStyle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "UIColor"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "attributedText"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "configureBucketList"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "dateLabel"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "handleBucketListAttribute"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "titleLabel"]
+depends-nominal:
+- "SK"
+- !private "3MVC10BucketListV"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "3MVC17HomeTableViewCellC"
+- !private "So21NSAttributedStringKeya"
+- "s25LosslessStringConvertibleP"
+- !private "So18NSAttributedStringC"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So16NSUnderlineStyleV"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "ST"
+- !private "s10SetAlgebraP"
+- !private "s27StringInterpolationProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8caecc8bc77ad9aa2f6d1aa603bc1e47"

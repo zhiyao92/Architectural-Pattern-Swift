@@ -1,0 +1,11 @@
+/Users/kelvintan/Desktop/VIPER/VIPER/View/Controller/Home/HomeViewController.swift
+/Users/kelvintan/Desktop/VIPER/VIPER/Interactor/HomeInteractor.swift
+/Users/kelvintan/Desktop/VIPER/VIPER/Extension/Date_Ext.swift
+/Users/kelvintan/Desktop/VIPER/VIPER/AppDelegate.swift
+/Users/kelvintan/Desktop/VIPER/VIPER/Presenter/HomePresenter.swift
+/Users/kelvintan/Desktop/VIPER/VIPER/Extension/View_Ext.swift
+/Users/kelvintan/Desktop/VIPER/VIPER/View/Controller/Detail/DetailViewController.swift
+/Users/kelvintan/Desktop/VIPER/VIPER/SceneDelegate.swift
+/Users/kelvintan/Desktop/VIPER/VIPER/View/Cells/HomeTableViewCell.swift
+/Users/kelvintan/Desktop/VIPER/VIPER/Router/HomeRouter.swift
+/Users/kelvintan/Desktop/VIPER/VIPER/Entity/BucketList.swift

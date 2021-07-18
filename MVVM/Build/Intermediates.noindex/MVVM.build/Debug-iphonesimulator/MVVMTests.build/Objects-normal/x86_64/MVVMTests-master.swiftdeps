@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "fc126f7276a4db666ca623e43a65a3ca"
+build_time: [1623310848, 235298000]
+inputs:
+  "/Users/kelvintan/Desktop/MVVM/MVVMTests/MVVMTests.swift": [1623309164, 364686297]
+  "/Users/kelvintan/Desktop/MVVM/MVVMTests/HomeViewModelTest.swift": [1623310431, 92926949]

@@ -1,0 +1,362 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HomeViewMock"
+- "HomePresenterTest"
+provides-nominal:
+- "8MVPTests12HomeViewMockC"
+- "8MVPTests17HomePresenterTestC"
+provides-member:
+- ["8MVPTests12HomeViewMockC", ""]
+- ["8MVPTests17HomePresenterTestC", ""]
+provides-dynamic-lookup:
+- "bucketLists"
+- "isReload"
+- "presenter"
+- "reloadView"
+- "setupPresenter"
+- "testAddBucketList"
+- "testAddMultipleBucketList"
+- "viewMock"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "BucketList"
+- !private "FloatLiteralType"
+- "HomePresenter"
+- "HomePresenterTest"
+- "HomePresenterViewProtocol"
+- "HomeViewMock"
+- !private "IntegerLiteralType"
+- !private "StringLiteralType"
+- !private "XCTAssertTrue"
+- "XCTestCase"
+- !private "presenter"
+- !private "setupPresenter"
+- !private "viewMock"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "first"]
+- !private ["SK", ""]
+- !private ["SK", "count"]
+- !private ["SK", "first"]
+- !private ["3MVP10BucketListV", "name"]
+- !private ["s7CVarArgP", "HomePresenter"]
+- !private ["s7CVarArgP", "HomeViewMock"]
+- !private ["s7CVarArgP", "XCTAssertTrue"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "presenter"]
+- !private ["s7CVarArgP", "setupPresenter"]
+- !private ["s7CVarArgP", "testAddBucketList"]
+- !private ["s7CVarArgP", "testAddMultipleBucketList"]
+- !private ["s7CVarArgP", "viewMock"]
+- !private ["Sl", ""]
+- !private ["Sl", "count"]
+- !private ["Sl", "first"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "HomePresenter"]
+- !private ["s28CustomDebugStringConvertibleP", "HomeViewMock"]
+- !private ["s28CustomDebugStringConvertibleP", "XCTAssertTrue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addBucketList"]
+- !private ["s28CustomDebugStringConvertibleP", "bucketLists"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "isReload"]
+- !private ["s28CustomDebugStringConvertibleP", "presenter"]
+- !private ["s28CustomDebugStringConvertibleP", "setupPresenter"]
+- !private ["s28CustomDebugStringConvertibleP", "testAddBucketList"]
+- !private ["s28CustomDebugStringConvertibleP", "testAddMultipleBucketList"]
+- !private ["s28CustomDebugStringConvertibleP", "viewMock"]
+- !private ["s17CustomReflectableP", "addBucketList"]
+- !private ["s17CustomReflectableP", "bucketLists"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "isReload"]
+- !private ["s23CustomStringConvertibleP", "HomePresenter"]
+- !private ["s23CustomStringConvertibleP", "HomeViewMock"]
+- !private ["s23CustomStringConvertibleP", "XCTAssertTrue"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "presenter"]
+- !private ["s23CustomStringConvertibleP", "setupPresenter"]
+- !private ["s23CustomStringConvertibleP", "testAddBucketList"]
+- !private ["s23CustomStringConvertibleP", "testAddMultipleBucketList"]
+- !private ["s23CustomStringConvertibleP", "viewMock"]
+- !private ["10Foundation12DataProtocolP", ""]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["Se", "addBucketList"]
+- !private ["Se", "bucketLists"]
+- !private ["Se", "count"]
+- !private ["Se", "first"]
+- !private ["Se", "isReload"]
+- !private ["SE", "addBucketList"]
+- !private ["SE", "bucketLists"]
+- !private ["SE", "count"]
+- !private ["SE", "first"]
+- !private ["SE", "isReload"]
+- !private ["SQ", "HomePresenter"]
+- !private ["SQ", "HomeViewMock"]
+- !private ["SQ", "XCTAssertTrue"]
+- ["SQ", ""]
+- !private ["SQ", "addBucketList"]
+- !private ["SQ", "bucketLists"]
+- !private ["SQ", "count"]
+- !private ["SQ", "first"]
+- !private ["SQ", "isReload"]
+- !private ["SQ", "name"]
+- !private ["SQ", "presenter"]
+- !private ["SQ", "setupPresenter"]
+- !private ["SQ", "testAddBucketList"]
+- !private ["SQ", "testAddMultipleBucketList"]
+- !private ["SQ", "viewMock"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "addBucketList"]
+- !private ["s23ExpressibleByNilLiteralP", "bucketLists"]
+- !private ["s23ExpressibleByNilLiteralP", "isReload"]
+- !private ["SH", "HomePresenter"]
+- !private ["SH", "HomeViewMock"]
+- !private ["SH", "XCTAssertTrue"]
+- ["SH", ""]
+- !private ["SH", "addBucketList"]
+- !private ["SH", "bucketLists"]
+- !private ["SH", "count"]
+- !private ["SH", "first"]
+- !private ["SH", "isReload"]
+- !private ["SH", "presenter"]
+- !private ["SH", "setupPresenter"]
+- !private ["SH", "testAddBucketList"]
+- !private ["SH", "testAddMultipleBucketList"]
+- !private ["SH", "viewMock"]
+- !private ["3MVP13HomePresenterC", "addBucketList"]
+- !private ["3MVP13HomePresenterC", "init"]
+- ["8MVPTests17HomePresenterTestC", "HomePresenter"]
+- ["8MVPTests17HomePresenterTestC", "HomeViewMock"]
+- !private ["8MVPTests17HomePresenterTestC", "XCTAssertTrue"]
+- ["8MVPTests17HomePresenterTestC", ""]
+- ["8MVPTests17HomePresenterTestC", "deinit"]
+- ["8MVPTests17HomePresenterTestC", "init"]
+- ["8MVPTests17HomePresenterTestC", "presenter"]
+- ["8MVPTests17HomePresenterTestC", "setupPresenter"]
+- ["8MVPTests17HomePresenterTestC", "testAddBucketList"]
+- ["8MVPTests17HomePresenterTestC", "testAddMultipleBucketList"]
+- ["8MVPTests17HomePresenterTestC", "viewMock"]
+- ["3MVP25HomePresenterViewProtocolP", ""]
+- !private ["3MVP25HomePresenterViewProtocolP", "bucketLists"]
+- !private ["3MVP25HomePresenterViewProtocolP", "init"]
+- !private ["3MVP25HomePresenterViewProtocolP", "isReload"]
+- ["3MVP25HomePresenterViewProtocolP", "reloadView"]
+- ["8MVPTests12HomeViewMockC", "BucketList"]
+- !private ["8MVPTests12HomeViewMockC", ""]
+- ["8MVPTests12HomeViewMockC", "bucketLists"]
+- ["8MVPTests12HomeViewMockC", "deinit"]
+- ["8MVPTests12HomeViewMockC", "init"]
+- ["8MVPTests12HomeViewMockC", "isReload"]
+- ["8MVPTests12HomeViewMockC", "reloadView"]
+- !private ["SM", ""]
+- !private ["SM", "count"]
+- !private ["SM", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["So8NSCodingP", ""]
+- ["So8NSObjectC", "HomePresenter"]
+- ["So8NSObjectC", "HomeViewMock"]
+- !private ["So8NSObjectC", "XCTAssertTrue"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "presenter"]
+- ["So8NSObjectC", "setupPresenter"]
+- ["So8NSObjectC", "testAddBucketList"]
+- ["So8NSObjectC", "testAddMultipleBucketList"]
+- ["So8NSObjectC", "testCaseWithInvocation"]
+- ["So8NSObjectC", "testCaseWithSelector"]
+- ["So8NSObjectC", "viewMock"]
+- ["So8NSObjectP", "HomePresenter"]
+- ["So8NSObjectP", "HomeViewMock"]
+- !private ["So8NSObjectP", "XCTAssertTrue"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "presenter"]
+- ["So8NSObjectP", "setupPresenter"]
+- ["So8NSObjectP", "testAddBucketList"]
+- ["So8NSObjectP", "testAddMultipleBucketList"]
+- ["So8NSObjectP", "testCaseWithInvocation"]
+- ["So8NSObjectP", "testCaseWithSelector"]
+- ["So8NSObjectP", "viewMock"]
+- !private ["Sq", "addBucketList"]
+- !private ["Sq", "bucketLists"]
+- !private ["Sq", "isReload"]
+- !private ["Sk", ""]
+- !private ["Sk", "count"]
+- !private ["Sk", "first"]
+- !private ["Sm", ""]
+- !private ["Sm", "count"]
+- !private ["Sm", "first"]
+- !private ["ST", ""]
+- !private ["ST", "count"]
+- !private ["ST", "first"]
+- !private ["So18UIFocusEnvironmentP", ""]
+- ["So11XCTActivityP", "HomePresenter"]
+- ["So11XCTActivityP", "HomeViewMock"]
+- !private ["So11XCTActivityP", "XCTAssertTrue"]
+- ["So11XCTActivityP", ""]
+- ["So11XCTActivityP", "init"]
+- ["So11XCTActivityP", "presenter"]
+- ["So11XCTActivityP", "setupPresenter"]
+- ["So11XCTActivityP", "testAddBucketList"]
+- ["So11XCTActivityP", "testAddMultipleBucketList"]
+- ["So11XCTActivityP", "viewMock"]
+- ["So17XCTWaiterDelegateP", "HomePresenter"]
+- ["So17XCTWaiterDelegateP", "HomeViewMock"]
+- !private ["So17XCTWaiterDelegateP", "XCTAssertTrue"]
+- ["So17XCTWaiterDelegateP", ""]
+- ["So17XCTWaiterDelegateP", "init"]
+- ["So17XCTWaiterDelegateP", "presenter"]
+- ["So17XCTWaiterDelegateP", "setupPresenter"]
+- ["So17XCTWaiterDelegateP", "testAddBucketList"]
+- ["So17XCTWaiterDelegateP", "testAddMultipleBucketList"]
+- ["So17XCTWaiterDelegateP", "viewMock"]
+- ["So6XCTestC", "HomePresenter"]
+- ["So6XCTestC", "HomeViewMock"]
+- !private ["So6XCTestC", "XCTAssertTrue"]
+- ["So6XCTestC", ""]
+- ["So6XCTestC", "init"]
+- ["So6XCTestC", "presenter"]
+- ["So6XCTestC", "setupPresenter"]
+- ["So6XCTestC", "testAddBucketList"]
+- ["So6XCTestC", "testAddMultipleBucketList"]
+- ["So6XCTestC", "testCaseWithInvocation"]
+- ["So6XCTestC", "testCaseWithSelector"]
+- ["So6XCTestC", "viewMock"]
+- ["So10XCTestCaseC", "HomePresenter"]
+- ["So10XCTestCaseC", "HomeViewMock"]
+- !private ["So10XCTestCaseC", "XCTAssertTrue"]
+- ["So10XCTestCaseC", ""]
+- ["So10XCTestCaseC", "init"]
+- ["So10XCTestCaseC", "presenter"]
+- ["So10XCTestCaseC", "setupPresenter"]
+- ["So10XCTestCaseC", "testAddBucketList"]
+- ["So10XCTestCaseC", "testAddMultipleBucketList"]
+- ["So10XCTestCaseC", "viewMock"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HomePresenter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HomeViewMock"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCTAssertTrue"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presenter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setupPresenter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "testAddBucketList"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "testAddMultipleBucketList"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewMock"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "HomePresenter"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "HomeViewMock"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "XCTAssertTrue"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presenter"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setupPresenter"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "testAddBucketList"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "testAddMultipleBucketList"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewMock"]
+- !private ["s21_ObjectiveCBridgeableP", "addBucketList"]
+- !private ["s21_ObjectiveCBridgeableP", "bucketLists"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "isReload"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "3MVP10BucketListV"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "3MVP13HomePresenterC"
+- "8MVPTests17HomePresenterTestC"
+- "3MVP25HomePresenterViewProtocolP"
+- "8MVPTests12HomeViewMockC"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "So18UIFocusEnvironmentP"
+- "So11XCTActivityP"
+- "So17XCTWaiterDelegateP"
+- "So6XCTestC"
+- "So10XCTestCaseC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/kelvintan/Desktop/MVP/Build/Products/Debug-iphonesimulator/MVP.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/XCTest.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3432a4fbfd0d5632c6638f970f57c089"
